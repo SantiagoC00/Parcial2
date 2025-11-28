@@ -1,0 +1,2 @@
+promt 1
+como hago para recorrer esa nueva lista y sacar el maximo y minimo para obtener la nota (diferencia entre máximo y mínimo) sin tuplas sin buquels ni if  
